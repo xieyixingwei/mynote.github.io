@@ -1,4 +1,4 @@
 # mynote.github.io
 This is mynote manual
 
-https://xieyixingwei/mynote.github.io
+https://xieyixingwei.github.io/mynote.github.io/
